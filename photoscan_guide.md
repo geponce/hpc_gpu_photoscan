@@ -1,7 +1,7 @@
 # Using Photoscan Pro with UA-HPC resources
 
 **Author:** Guillermo Ponce
-geponce at gmail.com  
+**Email:** geponce at gmail.com  
 
 The aims of this notebook is to document the steps for processing drone imagery using Photoscan Pro and the High Performance Computing services from The University of Arizona (UA). Users of these resources are part of a collaboration project between USDA-ARS-SWRC and UA.
 
